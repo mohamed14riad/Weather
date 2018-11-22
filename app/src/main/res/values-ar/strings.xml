@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="select">اختر</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="cairo">القاهرة</string>
+    <string name="dubai">دبي</string>
+    <string name="paris">باريس</string>
+    <string name="london">لندن</string>
+    <string name="canada">كندا</string>
+    <string name="select_city">اختر المدينة</string>
+    <string name="weather_icon">ايقونة الطقس</string>
+    <string name="max">العظمى:</string>
+    <string name="min">الصغرى:</string>
+    <string name="pressure">الضغط:</string>
+    <string name="humidity">الرطوبة:</string>
+    <string name="wind_speed">سرعة الرياح:</string>
+    <string name="wind_degree">زاوية الرياح:</string>
+    <string name="date_time">التاريخ:</string>
+    <string name="developer_email">mohamed.14.riad@gmail.com</string>
+    <string name="send_mail">ارسال بريد</string>
+</resources>

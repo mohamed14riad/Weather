@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="select">Select</string>
+    <string name="contact_us">Contact us</string>
+    <string name="cairo">Cairo</string>
+    <string name="dubai">Dubai</string>
+    <string name="paris">Paris</string>
+    <string name="london">London</string>
+    <string name="canada">Canada</string>
+    <string name="select_city">Select City</string>
+    <string name="weather_icon">Weather Icon</string>
+    <string name="max">Max:</string>
+    <string name="min">Min:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="wind_degree">Wind Degree:</string>
+    <string name="date_time">Date:</string>
+    <string name="developer_email">mohamed.14.riad@gmail.com</string>
+    <string name="send_mail">Send mail</string>
+</resources>

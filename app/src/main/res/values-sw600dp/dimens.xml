@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">24dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="icon_width">120dp</dimen>
+    <dimen name="temp_text_size">48sp</dimen>
+    <dimen name="text_size_medium">24sp</dimen>
+    <dimen name="text_size_small">18sp</dimen>
+</resources>
